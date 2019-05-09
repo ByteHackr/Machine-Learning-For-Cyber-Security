@@ -166,8 +166,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/behindlinux
-[2]: http://www.facebook.com/behindlinux
-[6]: http://www.github.com/behindlinux
+[1]: http://www.twitter.com/ByteHackr
+[2]: http://www.facebook.com/ByteHackr
+[6]: http://www.github.com/ByteHackr
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
